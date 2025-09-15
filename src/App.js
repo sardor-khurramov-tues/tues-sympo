@@ -1,6 +1,6 @@
-import SymposiumPage from "./SymposiumPage";
+// import SymposiumPage from "./SymposiumPage";
 import GeminiSample from "./GeminiSample";
-import ChatGptSample from "./ChatGptSample";
+// import ChatGptSample from "./ChatGptSample";
 
 function App() {
   // return <SymposiumPage />;
