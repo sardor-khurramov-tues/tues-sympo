@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tues-sympo/static/css/main.625c8feb.css",
+    "main.js": "/tues-sympo/static/js/main.d14b7007.js",
+    "index.html": "/tues-sympo/index.html",
+    "main.625c8feb.css.map": "/tues-sympo/static/css/main.625c8feb.css.map",
+    "main.d14b7007.js.map": "/tues-sympo/static/js/main.d14b7007.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.625c8feb.css",
+    "static/js/main.d14b7007.js"
+  ]
+}
